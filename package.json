@@ -1,0 +1,20 @@
+{
+  "name": "npm-practice",
+  "version": "0.0.1",
+  "description": "Just practicing npm commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "practice",
+    "javascript",
+    "node"
+  ],
+  "author": "Ken Lee",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
